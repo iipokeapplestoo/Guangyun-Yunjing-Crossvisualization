@@ -1,3 +1,4 @@
+#Main code is still in main_notebook.ipynb. This file just removes the code chunks, in case readers prefer a .py script.
 #Guangyun Yunjing Crossvisualization
 
 #Step 0: Import libraries
